@@ -83,30 +83,6 @@
 <h2 align="left">🧰 Projects Showcase</h2>
 
 <!-- ======================03.1.Projects One =====================-->
-#### 🚀  Project Title: Result Management System (RMS) `MERN`
-######  🗓️ Date: Feb 11, 2023 - May 03, 2024
-
-##### ✔️ Description:  
-Result Management System (RMS) is a web-based application designed to manage and automate student results for educational institutions (University Level). The system allows authorized users, such as teachers, to add, maintain, and publish student data while complying with regulations. Students can log in to view their results and download documents in PDF format. This automated approach simplifies data handling and enhances efficiency compared to traditional methods.
-
-##### ✔️ Technologies Used:
-- **Frontend:** ReactJS, Tailwind, React-Query, DayJS, Rechart, Axios, React-Hook-Form
-- **Backend:** Node.js, Express.js, Mongoose
-- **Database:** MongoDB
-- **Authentication:** JWT, Secure API
-
-##### ✔️ Key Features:
-1. **Manage Students & Courses**: Add, update, and organize students and courses by session and semester.
-2. **Results Handling**: Search, filter, and manage internal and semester marks, including lab and improvement marks.
-3. **PDF Generation**: Create PDFs for internal marks, course marks, and semester results.
-4. **Teacher & Examiner Control**: Add and manage teachers and third examiners.
-5. **Mark Submission**: Submit and update internal, semester, and improvement marks with PDF summaries.
-
-##### ✔️ Links:
-- [Live Site](https://resultsystem.netlify.app/)
-- [Frontend Repository](https://github.com/sam-suzzaman/RMS_Client)
-
----
 
 #### 🚀 Project Title: Hunter `(MERN)`
 ###### 🗓️ Date: Nov 08, 2023 - Dec 01, 2023
@@ -130,8 +106,6 @@ The Job Portal Web Application is a MERN stack platform for job management, feat
 
 ##### ✔️ Links:
 - [Live Site](https://hunter-iota.vercel.app/)
-- [Frontend Repository](https://github.com/sam-suzzaman/Hunter-Frontend)
-- [Backend Repository](https://github.com/sam-suzzaman/Hunter-Backend)
 
 ---
 
@@ -159,32 +133,58 @@ UniBook is a modern web application built on the MERN stack.It is a comprehensiv
 
 ##### ✔️ Links:
 - [Live Site](https://universitybook.netlify.app/)
-- [Frontend Repository](https://github.com/sam-suzzaman/UniBook-Frontend)
-- [Backend Repository](https://github.com/sam-suzzaman/UniBook-Backend)
 
 ---
 
-#### 🚀 Project Title: Neutron `(MENN)`
-###### 🗓️ Date: Oct 12, 2024 - Present
+#### 🚀 Project Title: DreamNest `(PSDtoHTML)`
+###### 🗓️ Date: Oct 12, 2023 - Oct 13,2023
 
 ##### ✔️ _Description:_
-It's a NextJS based full-stack web application. This application has been created so that a user can manage his/her daily used important contacts very easily through this application. Contacts are displayed on the website as a list. He/She can add, update, delete the contact list as they want.
+Here, I transformed a PSD design into a fully responsive and visually appealing HTML template, ensuring pixel-perfect accuracy and seamless functionality. This conversion maintains the original design's integrity while optimizing it for web use.
 
 ##### ✔️ Technologies Used:
-- **Frontend:** NextJS, Redux, React hot toast, React hook form, React Loading Skeleton, Framer motion 
-- **Backend:** Node.js, Express.js (Mongoose), joi 
-- **Database:** MongoDB  
+- **Key Techs:** Html, CSS, JS  
 - **Responsive:** Fully responsive design  
 
-##### ✔️ Key Features:
-1. **Manage Contacts**: Add, Edit, Delete Contacts.
-2. **Get Contacts**: A list of contacts is shown in the homepage.
-3. **Favourite list**: Can add/remove contact's in favourite list for quick access.
-4. **Fullstack**: It's a full stack application (both the frontend and api are build using NextJS technology
+##### ✔️ Live Site:
+- [Live Site](https://sam-log.github.io/DreamNest/)
 
-##### ✔️ Links:
-- [Live Site](https://neutron-cyan.vercel.app/)
-- [Code Repository](https://github.com/sam-suzzaman/neutron)
+---
+
+
+#### 🚀 Project Title: TravelMan `(PSDtoHTML)`
+###### 🗓️ Date: Oct 12, 2023 - Oct 13,2023
+
+##### ✔️ _Description:_
+Here, I transformed a PSD design into a fully responsive and visually appealing HTML template, ensuring pixel-perfect accuracy and seamless functionality. This conversion maintains the original design's integrity while optimizing it for web use.
+
+##### ✔️ Technologies Used:
+- **Key Techs:** Html, CSS, JS  
+- **Responsive:** Fully responsive design  
+
+##### ✔️ Live Site:
+- [Live Site](https://sam-log.github.io/travelMan/)
+
+---
+
+#### 🚀 Welcome to Explore:
+
+##### ✔️ _Description:_
+Here I give a complete list of my recent completed `PSD to HTML` templates with their live links.You are most welcome to visit them.
+
+##### ✔️ Technologies Used:
+- **Key Techs:** Html, CSS, JS, Bootstrap, TailwindCSS
+- **Responsive:** Fully responsive design  
+
+##### ✔️ Live Sites:
+- [dashboard](https://sam-log.github.io/dashboardUI/)
+- [ConvoZone](https://sam-log.github.io/convoZone/)
+- [InfluenceGear](https://sam-log.github.io/influnceGear/)
+- [BurgerSite](https://sam-log.github.io/burgerLanding/)
+- [Tazam](https://sam-log.github.io/tazamHTML/)
+- [Agency](https://sam-log.github.io/agency/)
+- [Spa](https://sam-log.github.io/yourSpa/)
+
 <br>
 <br>
 
